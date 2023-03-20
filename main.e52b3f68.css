@@ -1,0 +1,2 @@
+.clock{width:100%;height:800px;display:flex;justify-content:center;align-items:center}.clock__arrow-hour{height:300px;background-color:#001aff;top:100px;animation-name:move;animation-duration:60s;transform-origin:bottom center}.clock__arrow-second{height:200px;background-color:red;top:200px}.clock__center{width:40px;height:40px;border-radius:50%;background-color:#802be2;position:absolute}@keyframes move{0%{transform:rotate(0)}to{transform:rotate(1turn)}}.arrow{width:20px;position:absolute;border-radius:10px}body{margin:0}
+/*# sourceMappingURL=main.e52b3f68.css.map */
